@@ -1,0 +1,22 @@
+body{
+font:20px "Georgia","微软雅黑",serif;
+}
+p.title{
+font:bold 36px "Tahoma","黑体",sans-serif;
+color:#800000
+}
+p.subtitle{
+font-size:150%;
+color:#000080;
+}
+p.titlearea{
+font-size:110%
+}
+p.section{
+font-size:125%;
+color:#000080
+}
+p.subsection{
+font-size:110%;
+color:#800000
+}
