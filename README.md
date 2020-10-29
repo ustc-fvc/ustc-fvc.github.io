@@ -1,7 +1,7 @@
 # Work list of USTC-FVC research team
 
 ## Deep Learning-Based Image and Video Compression: A List of Publications
-This is a list of publications regarding deep learning-based image and video compression. The list is maintained by the USTC-FVC research team"[paper list](https://ustc-fvc.github.io/deep-compression.html)".
+This is a list of publications regarding deep learning-based image and video compression. [The list](https://ustc-fvc.github.io/deep-compression.html) is maintained by the USTC-FVC research team.
 
 ## End-to-End Optimized Versatile Image Compression With Wavelet-Like Transform
 [This work](https://github.com/mahaichuan/Versatile-Image-Compression) provides the official implementation of "[End-to-End Optimized Versatile Image Compression With Wavelet-Like Transform](https://ieeexplore.ieee.org/document/9204799)".
