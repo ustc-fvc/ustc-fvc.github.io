@@ -16,7 +16,7 @@ Accepted by IEEE TMM.
 Author: Haichuan Ma, Dong Liu, Ruiqin Xiong, Feng Wu
 
 ## Entropy coding and Post processing for JPEG 2000
-[This work](https://github.com/mahaichuan/Entropy-coding-and-Post-processing-for-JPEG-2000) provides source code of two techniques to improve the compression performance of JPEG-2000, namely entropy coding and post-processing."[A CNN-Based Image Compression Scheme Compatible with JPEG-2000](https://ieeexplore.ieee.org/document/8803835)"
+[This work](https://github.com/mahaichuan/Entropy-coding-and-Post-processing-for-JPEG-2000) provides source code of two techniques to improve the compression performance of JPEG-2000, namely entropy coding and post-processing. The paper is "[A CNN-Based Image Compression Scheme Compatible with JPEG-2000](https://ieeexplore.ieee.org/document/8803835)".
 
 Accepted by IEEE ICIP.
 Author: Haichuan Ma, Dong Liu, Ruiqin Xiong, Feng Wu
