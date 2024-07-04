@@ -1,0 +1,29 @@
+在如下期刊与会议的官网检索了文章，其后附上了对应的网址。括号中记录了整理的最新进度，每次整理需要更新此txt文件，方便后续进行下一次整理。
+
+相关文章来源：
+期刊：
+√TCSVT，(2023  Volume 33   Issue 9)  https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76
+√TIP，(2023 Pages: 5692 - 5704)    https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
+√TMM，(2023 Pages: 4598 - 4609）https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
+√TPAMI, (2023 Pages: 14052 - 14054)      https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+√JVCIR，(2022 Volume 97)    https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation/issues
+
+会议：
+CVPR，2023        https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings
+（CVPR有一个workshop年年举办，影响力较大），2023  https://openaccess.thecvf.com/menu
+ICCV， 2023           https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings
+ECCV*，2022        https://dblp.uni-trier.de/db/conf/eccv/index.html
+NeurlIPS, 2023
+AAAI*，2023         https://ojs.aaai.org/index.php/AAAI/issue/archive
+ICML*，2023
+ICLR*，2023         https://openreview.net/   
+
+
+ISCAS，2023       https://ieeexplore.ieee.org/xpl/conhome/1000089/all-proceedings
+ICASSP，2023   （12）  https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings 
+DCC，2023      （50） https://ieeexplore.ieee.org/xpl/conhome/1000177/all-proceedings
+ICME，2023    （10）  https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings
+ICIP，2022      （39）  https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings
+VCIP，2022     （29） https://ieeexplore.ieee.org/xpl/conhome/1800602/all-proceedings
+PCS，2022      （30） https://ieeexplore.ieee.org/xpl/conhome/1002806/all-proceedings
+
