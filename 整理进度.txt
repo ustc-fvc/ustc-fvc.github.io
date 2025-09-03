@@ -2,11 +2,11 @@
 
 相关文章来源：
 期刊：
-√TCSVT，(2023  Volume 33   Issue 9)  https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76
-√TIP，(2023 Pages: 5692 - 5704)    https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
-√TMM，(2023 Pages: 4598 - 4609）https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
-√TPAMI, (2023 Pages: 14052 - 14054)      https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
-√JVCIR，(2022 Volume 97)    https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation/issues
+√TCSVT，(2024  Volume 34   Issue 12)  https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76
+√TIP，(2024 Pages: 6905 - 6925)    https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
+√TMM，(2024 Pages: 11428 - 11439) https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
+√TPAMI, (2024 Issue 12)      https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+√JVCIR，(2024 Volume 105)    https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation/issues
 
 会议：
 CVPR，2023        https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings
@@ -26,4 +26,5 @@ ICME，2023      https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings
 ICIP，2022        https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings
 VCIP，2022      https://ieeexplore.ieee.org/xpl/conhome/1800602/all-proceedings
 PCS，2022       https://ieeexplore.ieee.org/xpl/conhome/1002806/all-proceedings
+
 
